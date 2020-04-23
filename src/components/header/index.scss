@@ -1,0 +1,13 @@
+.navbar{
+    &__wrapper{
+        display: flex;
+        width: 100%;
+    }
+    &__main-menu{
+        width: 90%;
+    }
+    &__side-wrapper{
+        width: 10%;
+
+    }
+}
