@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Layout from './components/Layout';
-import classnames from 'classnames';
+import classnames from 'classnames'
 
 import {
   TabContent,
@@ -8,10 +8,6 @@ import {
   Nav,
   NavItem,
   NavLink,
-  Card,
-  Button,
-  CardTitle,
-  CardText,
   Row,
   Col
 } from 'reactstrap';
