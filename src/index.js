@@ -4,6 +4,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './assets/scss/styles.scss'
+import '@trendmicro/react-sidenav/dist/react-sidenav.css';
 
 ReactDOM.render(
   <React.StrictMode>
