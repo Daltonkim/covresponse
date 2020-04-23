@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Layout from './UI/Layout';
+import Layout from './components/Layout';
 import classnames from 'classnames';
 
 import {

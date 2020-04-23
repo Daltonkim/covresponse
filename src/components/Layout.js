@@ -6,7 +6,7 @@ import {
 } from 'reactstrap';
 
 
-import Header from './Header';
+import Header from './header';
 
 class Layout extends Component {
 
